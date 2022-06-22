@@ -19,3 +19,5 @@
 <br>[Day 1 Morning Lecture Video](https://northwestern.zoom.us/rec/share/5zGaa0y7qmVyb-lxZ-f4lUEBqU0SqYLNaosPIlN6ZR5fOIlr-cA2tmDIvi1fkVEh.b2aPq4DZXxNT1tp9)
 <br>[Day 1 Afternoon Lecture Video](https://northwestern.zoom.us/rec/share/PC2cX7osGCG1Hzwy-3sH4mbM-c9FiXiuZfB7h5c1KNnJhS2IMn3CmWGuoquF0sJt.sZZD8n7ExqaSXtk0)
 <br>[Day 2 Morning Lecture Video](https://northwestern.zoom.us/rec/share/uDCn1Oy_e6FUGYCIo18MbW9GoO2B1ZRewdCpv91w1D_YHeLLgYqBxXtEapW8Pd5g.xZIqegr6qL0yIImu)
+<br>[Day 2 Afternoon PART ONE Lecture Video](https://northwestern.zoom.us/rec/share/rY04rHLtWW0Xn9_wgOI07qhJRexSFCSFO3ZQIDPuSLHpKlrRVldEVtCPGhsI9FmQ.4akNjrZuX0EUzioG)
+<br>[Day 2 Afternoon PART TWO Lecture Video](https://northwestern.zoom.us/rec/share/SDC-TKi0eSq5rZ87sQcGNV5YJbTiIwZHz90gaTR9G0d1KReUPnSCiX2V1a9tY5nB.r1UG47a9R2dHzdnW)
