@@ -18,3 +18,4 @@
 <br>You will need the password that was emailed out to the class to access the recordings.
 <br>[Day 1 Morning Lecture Video](https://northwestern.zoom.us/rec/share/5zGaa0y7qmVyb-lxZ-f4lUEBqU0SqYLNaosPIlN6ZR5fOIlr-cA2tmDIvi1fkVEh.b2aPq4DZXxNT1tp9)
 <br>[Day 1 Afternoon Lecture Video](https://northwestern.zoom.us/rec/share/PC2cX7osGCG1Hzwy-3sH4mbM-c9FiXiuZfB7h5c1KNnJhS2IMn3CmWGuoquF0sJt.sZZD8n7ExqaSXtk0)
+<br>[Day 2 Morning Lecture Video](https://northwestern.zoom.us/rec/share/uDCn1Oy_e6FUGYCIo18MbW9GoO2B1ZRewdCpv91w1D_YHeLLgYqBxXtEapW8Pd5g.xZIqegr6qL0yIImu)
