@@ -24,3 +24,6 @@
 <br>[Day 2 Afternoon PART TWO Lecture Video](https://northwestern.zoom.us/rec/share/SDC-TKi0eSq5rZ87sQcGNV5YJbTiIwZHz90gaTR9G0d1KReUPnSCiX2V1a9tY5nB.r1UG47a9R2dHzdnW)
 <br>[Day 3 Morning Lecture Video](https://northwestern.zoom.us/rec/share/RsLM4gdrNletgK9nNtXDbEa81hLANDE-YOCDYVgCr6lD-qjtE1_KLTprhE4CxT89.lCR6cyKmwhnW6A_Z)
 <br>[Day 3 Afternoon Lecture Video](https://northwestern.zoom.us/rec/share/moQkdwSezHIQKIHN3Kxu-vARgazBwn0EA6IFORAUojvlke4EbC4SVEL5yGvAyv1E.ag7aEKP-WNlCFr88)
+
+<br>[BONUS LEVEL Morning Lecture Video](https://northwestern.zoom.us/rec/share/RbmSXAYIYM91GFyn0ibl_GzRf-thWmXBTjUEMYYjCr8MQc8GMFH1rCEq0A8nvbck.qvUAikOk6LVh4ERl)
+(I didn't start recording until after the song-of-the-day on the morning lecture, so you'll have to listen to Curtis Mayfield's Move On Up on your own!)
