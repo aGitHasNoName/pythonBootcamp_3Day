@@ -27,3 +27,5 @@
 
 <br>[BONUS LEVEL Morning Lecture Video](https://northwestern.zoom.us/rec/share/RbmSXAYIYM91GFyn0ibl_GzRf-thWmXBTjUEMYYjCr8MQc8GMFH1rCEq0A8nvbck.qvUAikOk6LVh4ERl)
 (I didn't start recording until after the song-of-the-day on the morning lecture, so you'll have to listen to Curtis Mayfield's Move On Up on your own!)
+<br>[BONUS LEVEL Afternoon Lecture Video](https://northwestern.zoom.us/rec/share/35afDQI3sJoKJy-_ecPUQXQ5CLmnsZLVnJZ1cu1eQ29OfJoGbkuvA9ppM4Gaqd53.k4lnFSaY61Rt-QnK)
+(This one has a lot of technical troubleshooting in it.)
